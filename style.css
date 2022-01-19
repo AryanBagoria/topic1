@@ -1,0 +1,22 @@
+body {background-color: violet;}
+h1   {font-family: arial, sans-serif;
+      color: rgb(253, 253, 253);}
+
+h2   {font-family: arial, sans-serif;
+      color: rgb(253, 253, 253);}
+
+ p    {font-family: arial, sans-serif;
+      color: rgb(0, 0, 0);
+      font-size: 20px;}
+
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  th {
+    border: 3px solid #dddddd;
+    text-align: left;
+    padding: 9px;
+  }
